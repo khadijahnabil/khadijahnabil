@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @khadijahnabil
-- 👀 I’m interested in learning more about software development!
-- 🌱 I’m currently learning HTML, CSS, Javascript, and React
-- 💞️ I’m looking to collaborate on anything really!
-- 📫 How to reach me: IG - khadeeeej, twitter: khadijahnabil7
+👋 Hi, I’m @khadijahnabil
+👀 I’m interested in learning about frontend development & AI technologies
+🌱 I’m currently learning React, React Query, & Redux
+🧰 Current stack:** HTML, CSS, Javascript, React, React Query**
+📫 Reach me via LinkedIn: https://www.linkedin.com/in/khadijahnabil/
