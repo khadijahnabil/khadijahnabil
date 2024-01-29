@@ -11,7 +11,7 @@ Apart from coding, I also enjoy creative endeavors such as creating clothes, pla
 
 ## Projects 📝
 
-👀 Coming soon!
+Check out my projects <a href="https://kcodes-portfolio.netlify.app/">here</a>! 
 
 
 ## Tech Stack 🧰
