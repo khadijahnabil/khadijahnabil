@@ -16,13 +16,13 @@ Check out my projects <a href="https://kcodes-portfolio.netlify.app/">here</a>!
 
 ## Tech Stack 🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50" /> 
 
 
 ## Currently learning ✏
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50" />
 
 ## Contact me 🤙
 <a href="https://www.linkedin.com/in/khadijahnabil/">
@@ -30,5 +30,5 @@ Check out my projects <a href="https://kcodes-portfolio.netlify.app/">here</a>!
 </a> 
 <span>
 <a href="mailto:nabilkhadijah7@gmail.com">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="gmail" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="50" height="50" />
 </a>
